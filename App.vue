@@ -14,7 +14,7 @@ export default {
   name: 'App',
   data(){
     return {
-      sentence : "어뮤즈트래블은 돌봄여행을 제공하는 컨시어지 여행사입니다.",
+      sentence : "뷰 실습입니다.",
       istoast: false,
       cnt : 0,
     }
